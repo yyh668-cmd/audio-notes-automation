@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+build/
+dist/
+artifacts/
+.env
+.env.*
+unit3_audio.wma
+Unit 3.plain.txt
+Unit 3.transcript.txt
+Unit 3 organized notes.md
+

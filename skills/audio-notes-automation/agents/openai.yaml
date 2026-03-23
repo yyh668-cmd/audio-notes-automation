@@ -1,0 +1,7 @@
+interface:
+  display_name: "Audio Notes Automation"
+  short_description: "Transcribe audio and build organized notes."
+  default_prompt: "Use $audio-notes-automation to transcribe an audio file, label speakers, and produce organized notes."
+
+policy:
+  allow_implicit_invocation: true
