@@ -1,2 +1,0 @@
-[console_scripts]
-audio-notes-automation = audio_notes_automation.cli:app
